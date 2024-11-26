@@ -1,2 +1,2 @@
-# detection-of-CKD-using-machine-learning-techniques
+# Detection-of-CKD-using-machine-learning-techniques
 Final year research project
